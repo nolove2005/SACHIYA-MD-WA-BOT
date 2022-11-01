@@ -36,7 +36,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Please Wait...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired🤣!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
